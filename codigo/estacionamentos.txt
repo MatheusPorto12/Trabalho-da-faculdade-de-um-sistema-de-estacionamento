@@ -1,0 +1,3 @@
+0;Estacionamento1;3;10
+1;Estacionamento2;1;5
+2;Estacionamento3;2;7
